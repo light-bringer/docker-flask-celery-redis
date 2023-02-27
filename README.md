@@ -40,4 +40,4 @@ Task changes should happen in [celery-queue/tasks.py](celery-queue/tasks.py)
 
 ---
 
-adapted from [https://github.com/itsrifat/flask-celery-docker-scale](https://github.com/itsrifat/flask-celery-docker-scale)
+
